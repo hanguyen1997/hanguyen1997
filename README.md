@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m Ha Nguyen
-- 🌱 I’m live Da Nang city, Viet Nam
+- 🌱 I’m live DaNang city, VietNam
 - 👯 I’m web developer
